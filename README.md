@@ -1,12 +1,16 @@
-<B>MY PC BUILDS💻</B>
+<h1 align="center">MY PC BUILDS💻</h1>
+
+<h2 align="center">
 
 |     PARTS      |   BRAND                                                    | SHOP LINKS 🛒   |
 |:---------------|:----------------------------------------------------------:|:-------------:|
 | Processor      |      AMD Ryzen 5 2600 6-Cores, 12 Threads, 16mb Cache      |[SHOPEE](https://shopee.ph/AMD-Ryzen-5-2600-R5-2600-3.4-GHz-Six-Core-Twelve-Thread-CPU-Processor-YD2600BBM6IAF-Socket-AM4-i.228460801.11852535352?sp_atk=e44a1457-994f-48c2-a6c4-50ceb5ef0bb0&xptdk=e44a1457-994f-48c2-a6c4-50ceb5ef0bb0) / [LAZADA](https://www.lazada.com.ph/products/amd-ryzen-5-2600-r5-2600-34-ghz-six-core-twelve-thread-cpu-processor-yd2600bbm6iaf-socket-am4-i2132561793-s9511681542.html?clickTrackInfo=undefined&search=1&source=search&spm=a2o4l.searchlist.list.i40.5a486c53yqfMyn)|
-| Motherboard    |   Gigabyte Aorus B450 Pro Wi-Fi                            |       |
+| Motherboard    |   ASUS ROG STRIX B450-F GAMING II AM4                           | [SHOPPE](https://shopee.ph/ASUS-ROG-STRIX-B450-F-GAMING-II-ATX-AM4-DDR4-SATA-6Gb-s-USB-3.1-HDMI-AMD-B450-Chipset-Motherboard-i.89762129.1970729269?sp_atk=52990720-339f-4b6d-89e8-304626ad7fef&xptdk=52990720-339f-4b6d-89e8-304626ad7fef) / [LAZADA](https://www.lazada.com.ph/products/asus-rog-strix-b450-f-gaming-ii-atx-am4-ddr4-sata-6gbs-usb-31-hdmi-amd-b450-chipset-motherboard-i289258188-s466506692.html?clickTrackInfo=undefined&search=1&source=search&spm=a2o4l.searchlist.list.i40.1fad376dfqEDfv)   |
 | GPU            | MSI Gaming X, Geforce GTX 1660                             |[LAZADA](https://www.lazada.com.ph/products/msi-geforce-gtx-1660-super-gaming-x-gaming-graphic-card-with-torx-fan-30-zero-frozr-custom-pcb-solid-backplate-dragon-center-oc-performance-and-msi-afterburner-i1187504810-s4187670696.html?clickTrackInfo=undefined&search=1&source=search&spm=a2o4l.searchlist.list.i40.7144220fNVNayU)|
 | RAM            | 16GB DDR4 Memory Geil Super Luce 2666Mhz RGB Dual 8GB      |         |
 | SSD            |  256GB Plextor                                             |   |
 | HDD            |  1TB Seagate Barracuda                                     |[SHOPEE](https://shopee.ph/Seagate-1TB-Barracuda-Compute-3.5-SATA-6Gb-s-Internal-Hard-Drive-(ST1000DM010)-i.23150638.532666331?sp_atk=32751254-9913-4c0e-9611-d4323edab612&xptdk=32751254-9913-4c0e-9611-d4323edab612) / [LAZADA](https://www.lazada.com.ph/products/seagate-1tb-st1000dm010-hard-disk-driveseagate-1tb-st1000dm010-internal-storage-device-for-desktop-pc-faster-data-transfer-loading-and-boot-up-time-easy-to-install-for-operating-system-and-storage-of-files-best-seller-i101774945-s101986903.html?clickTrackInfo=undefined&search=1&source=search&spm=a2o4l.searchlist.list.i40.5cce51132JVsLB)|
 | PSU            | Cooler Master MWE 650W 80+ Bronze                          |[SHOPEE](https://shopee.ph/Cooler-Master-MWE-650-BRONZE-V2-650W-80-Bronze-Power-Supply-(MPE-6501-ACAAB-US)-i.89762129.3764950305?sp_atk=606987bc-cc57-4c44-a087-c069a1ab6dd8&xptdk=606987bc-cc57-4c44-a087-c069a1ab6dd8) / [LAZADA](https://www.lazada.com.ph/products/cooler-master-mwe-650-bronze-v2-650w-80-bronze-power-supply-mpe-6501-acaab-us-i1470358831-s6043478730.html?clickTrackInfo=undefined&search=1&source=search&spm=a2o4l.searchlist.list.i40.1acd8b2bUulOOq)|
-| PC CASE        | Trendsonic Raider Eclipse                                  |         |
+| PC CASE        | Trendsonic Raider Eclipse                                  |         | 
+
+</h2>
