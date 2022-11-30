@@ -1,0 +1,186 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    overflow: hidden;
+    place-items: center;
+    justify-content: center;
+    justify-items: center;
+    display:grid;
+    background-image:url("image/BG.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.imgprofile{
+    width: 220px;
+    clip-path: circle();
+    margin-top: 5px;
+    
+}
+#txtname{
+    text-align: center;
+    position: relative;
+    -webkit-text-fill-color: whitesmoke;
+    position: relative; top:-120px
+
+}
+button{
+    display: flex;
+    font-size: 20px;
+    padding: 0;
+    border-radius: 19px;
+    border: none;
+    outline: none;
+    overflow: hidden;
+    font-family: 'Roboto',sans-serif;
+    margin: 10px;
+    font-weight: 500;
+    width: 261px; 
+    height: 60px;
+    cursor: pointer;
+    box-shadow: rgba(46, 2, 2, 0.19) 0px 10px 20px,rgba(129, 27, 27, 0.23) 0px 6px 6px;
+    transition: all 160ms ease-in;
+    background: rgb(7, 199, 247);
+    position: relative; top:-240px
+}
+
+button:hover{
+    background: rgb(13, 122, 194);
+
+}
+button:active{
+    background: rgb(#3e61ac);
+    transform: scale(0.92);
+}
+.button_text,
+.button_icon{
+    display: flex;
+    align-items: center;
+    height: 100%;
+    padding: 0 24px;
+    color: rgb(266, 266, 266);
+
+}
+.button_icon{
+    font-size: 2.0em;
+    background: rgb(0,0,0,0.08);
+   
+
+}
+.button2{
+    display: flex;
+    font-size: 20px;
+    padding: 0;
+    border-radius: 19px;
+    border: none;
+    outline: none;
+    overflow: hidden;
+    font-family: 'Roboto',sans-serif;
+    margin: 10px;
+    font-weight: 500;
+    width: 261px; 
+    height: 60px;
+    cursor: pointer;
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px,rgba(0, 0, 0, 0.23) 0px 6px 6px;
+    transition: all 160ms ease-in;
+    background: rgb(151, 7, 187);
+}
+.button2:hover{
+    background: rgb(59, 7, 88);
+
+}
+.button2:active{
+    background: rgb(#c375db);
+    transform: scale(0.92);
+}
+.button_text2,
+.button_icon2{
+    display: flex;
+    align-items: center;
+    height: 100%;
+    padding: 0 25px;
+    color: rgb(266, 266, 266);
+    position: relative; left: 15px;
+   
+
+}
+.button_icon2{
+    font-size: 2.0em;
+    background: rgb(0, 0, 0,0.19);
+    position: relative; left: 20px;
+    
+   
+
+}
+.button3{
+    display: flex;
+    font-size: 20px;
+    padding: 0;
+    border-radius: 19px;
+    border: none;
+    outline: none;
+    overflow: hidden;
+    font-family: 'Roboto',sans-serif;
+    margin: 10px;
+    font-weight: 500;
+    width: 261px; 
+    height: 60px;
+    cursor: pointer;
+    box-shadow: rgba(131, 42, 42, 0.19) 0px 10px 20px,rgba(0, 0, 0, 0.23) 0px 6px 6px;
+    transition: all 160ms ease-in;
+    background: rgb(240, 10, 10);
+}
+.button3:hover{
+    background: rgb(177, 5, 5);
+
+}
+.button3:active{
+    background: rgb(#c42c2c);
+    transform: scale(0.94);
+}
+.button_text3,
+.button_icon3{
+    display: flex;
+    align-items: center;
+    height: 100%;
+    padding: 0 24px;
+    color: rgb(266, 266, 266);
+    position: relative; left: 0px;
+
+}
+.button_icon3{
+    font-size: 2.0em;
+    background: rgb(0,0,0,0.08);
+    position: relative; left: 3px
+   
+
+}
+.button.border{
+    width: 450px;
+    background: rgba(255, 244, 244, 0.5);
+    padding: 4rem;
+    border-radius: 10px;
+    position: relative;
+    
+}
+
+#container{
+    text-align: center;
+}
+.hide2{display: none;}
+.show2{display: block;}
+
+#emailinvisible{
+    border-left: 6px solid rgb(247, 0, 255);
+    background-color: rgb(36, 35, 35);
+    text-align: left;
+    -webkit-text-fill-color: whitesmoke;
+    font-family: 'Roboto',sans-serif;
+    font-size: 18px;
+    
+
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@600&family=Roboto:wght@500&display=swap');
