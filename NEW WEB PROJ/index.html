@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <script src="http://code.jquery.com/jquery-latest.min.js"></script>
+    <title>Document</title>
+</head>
+</section>
+<body>
+   
+    <img src="image/profile.jpg" class="imgprofile" alt="imgprofile">
+    <h1 id="txtname">JEYNER JUNE MALUBAY (NNER TV)</h1>
+    <div id="container">
+        <button class="button" onclick="myFunction()">
+            <span class="button_text">Facebook Page</span>
+            <span class="button_icon">
+            <ion-icon name="logo-facebook"></ion-icon>
+            </span>
+        </button>
+        <button id="visiblebtn2" class="button2">
+            <span class="button_text2">Contact Me</span>
+            <span class="button_icon2">
+                <ion-icon name="mail-outline"></ion-icon>
+            </span>
+        </button>
+        <button class="button3" onclick="myFunction1()">
+            <span class="button_text3">MY PCBUILD</span>
+            <span class="button_icon3">
+                <ion-icon name="tv-outline"></ion-icon>
+            </span>
+        </button>
+        <div id="emailinvisible" class="hide2">
+        <p>Email: Jeyner.malubay23@yahoo.com</p>
+        <p>Gmail: Jeyner.malubay23@gmail.com</p>
+        <p>Phone: 09392664195</p>
+
+
+    </div>
+    </div>
+    </div>
+    
+    <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js">
+    </script>
+<script >
+    $(function(){
+        $("#visiblebtn2").click(function(){
+            $('#emailinvisible').toggleClass("show2");
+        });
+    });
+</script>
+
+<script>
+    function myFunction() {
+      window.open("https://www.facebook.com/NNERTV/");
+    }
+    </script>
+
+<script>
+    function myFunction1() {
+      window.open("https://nnertvx2399.github.io/nnertvofficial.github.io/");
+    }
+    </script>
+
+</body>
+</section>
+</html>
